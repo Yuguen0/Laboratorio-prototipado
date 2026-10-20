@@ -1,0 +1,12 @@
+prompt 1
+
+cuento con un modelo de requerimientos donde hay un solo actor involucrado el cual es un "estudiante" este tiene una funcioonalidad la cual es "solicitar saludo, y a su vez esta incluye (include) otra funcinalidad la cual es "pedir datos". 
+
+prompt 2
+
+bueno, deseo la aplicacion (archivo) en java que ya se pueda compilar donde "solicitar saludo" posibilita que el estudiante seasaludado por su nombre mencionando su edad. 1 el estudiante hace clic en solicitar saludo. 2 el sistema solicita nombre, edad, hora (AM/PM).
+3 el estudiante ingresa lo solicitado. 4 el sistema saluda al estudiante por su nombre y menciona su edad. (recuerda mostrarme comandos, librerias y demás que necesite para este cod, y pues que hace cada una de estás para comprenderlas).
+
+prompt 3
+
+puedes realizarlo de vuelta pero ahora con interfaz grafica.
