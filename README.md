@@ -1,1 +1,1 @@
-# Laboratorio-prototipado
+hola, yo utilizo visual estudio code, donde ahí tengo mi código y realizo la instalación de "winget install Microsoft.OpenJDK.21" para poder compilar mi código que incluye una interfaz grafica, ya con esos simples pasos se puede compilar de manera correcta el código 
