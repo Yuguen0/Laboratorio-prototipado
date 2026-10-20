@@ -1,0 +1,3 @@
+la verdad este laboratorio me pareció un reto por el hecho de que es una IA limitada la cual nos ayuda a realizarlo, sin embargo sin los conocimientos suficientes prácticamente esta se vuelve inútil, un descubrimiento y sorpresa de la cual no me había fijado y pienso aplicarlo en el futuro es en la estructura del software
+ya que este lo implementé todo desde un solo archivo, y es mucho mejor dejarlo separado por clases para que sea un codigo más limpio, los pocos comandos que usé fue el de instalar el Microsoft.OpenJDK.21 y hay algunas librerías que descubrí que se usan para la parte de interfaz grafica en java, la cual nunca
+utilicé anteriormente.
